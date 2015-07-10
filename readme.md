@@ -2,8 +2,8 @@
 
 
 # Preconditions
-Java: http://www.oracle.com/technetwork/java/javase/downloads
-IDE, e.g.: https://www.jetbrains.com/idea/download/
+1. Java: http://www.oracle.com/technetwork/java/javase/downloads
+2. IDE, e.g.: https://www.jetbrains.com/idea/download/
 
 # Usage
 
@@ -20,5 +20,5 @@ To run with all, you can run:
 Replace `./gradlew` with `gradlew.bat` in the above examples if you're on Windows.
 
 # References
-
-[Original example](https://github.com/geb/geb-example-gradle)
+- [Geb documentation](http://www.gebish.org/manual/current/)
+- [Original example](https://github.com/geb/geb-example-gradle)
