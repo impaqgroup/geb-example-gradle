@@ -1,10 +1,9 @@
-[![Build Status](https://drone.io/github.com/geb/geb-example-gradle/status.png)](https://drone.io/github.com/geb/geb-example-gradle/latest)
 
-# Description
 
-This is an example of incorporating Geb into a Gradle build. It shows the use of Spock and JUnit 4 tests.
 
-The build is setup to work with Firefox, Chrome and PhantomJS. Have a look at the `build.gradle` and the `src/test/resources/GebConfig.groovy` files.
+# Preconditions
+Java: http://www.oracle.com/technetwork/java/javase/downloads
+IDE, e.g.: https://www.jetbrains.com/idea/download/
 
 # Usage
 
@@ -20,6 +19,6 @@ To run with all, you can run:
 
 Replace `./gradlew` with `gradlew.bat` in the above examples if you're on Windows.
 
-# Questions and issues
+# References
 
-Please ask questions on [Geb user mailing list](http://xircles.codehaus.org/lists/user@geb.codehaus.org) and raise issues in [Geb issue tracker](https://jira.codehaus.org/browse/GEB).
+[Original example](https://github.com/geb/geb-example-gradle)
