@@ -2,6 +2,7 @@ import org.apache.tools.ant.taskdefs.condition.Os
 
 ext {
     // The drivers we want to use
+//    drivers = ["firefox"]
     drivers = ["firefox", "chrome", "phantomJs"]
 
     ext {

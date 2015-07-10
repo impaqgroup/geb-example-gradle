@@ -9,6 +9,13 @@ import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.firefox.FirefoxDriver
 import org.openqa.selenium.phantomjs.PhantomJSDriver
 
+
+driver = {
+	new FirefoxDriver()
+}
+
+reportsDir = "geb-reports"
+
 waiting {
 	timeout = 2
 }
