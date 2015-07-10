@@ -1,3 +1,5 @@
+package com.impaqgroup.example.page
+
 import geb.Page
 
 class TheBookOfGebPage extends Page {

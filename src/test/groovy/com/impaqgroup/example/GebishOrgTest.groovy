@@ -1,3 +1,7 @@
+package com.impaqgroup.example
+
+import com.impaqgroup.example.page.GebishOrgHomePage
+import com.impaqgroup.example.page.TheBookOfGebPage
 import geb.junit4.GebReportingTest
 import org.junit.Test
 import org.junit.runner.RunWith

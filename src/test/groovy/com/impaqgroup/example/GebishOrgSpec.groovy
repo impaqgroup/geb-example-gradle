@@ -1,3 +1,7 @@
+package com.impaqgroup.example
+
+import com.impaqgroup.example.page.GebishOrgHomePage
+import com.impaqgroup.example.page.TheBookOfGebPage
 import geb.spock.GebReportingSpec
 
 class GebishOrgSpec extends GebReportingSpec {

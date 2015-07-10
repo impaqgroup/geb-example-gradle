@@ -1,3 +1,6 @@
+package com.impaqgroup.example.page
+
+import com.impaqgroup.example.page.module.MenuModule
 import geb.Page
 
 class GebishOrgHomePage extends Page {
