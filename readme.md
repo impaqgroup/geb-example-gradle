@@ -1,10 +1,7 @@
-
-
-
 # Preconditions
 1. Java: http://www.oracle.com/technetwork/java/javase/downloads
 2. IDE, e.g.: https://www.jetbrains.com/idea/download/
-
+3. SCM https://git-scm.com/download/win
 # Usage
 
 The following commands will launch the tests with the individual browsers:
